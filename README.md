@@ -1,5 +1,5 @@
 # E-Commerce Sales Analysis Dashboard
-## Tools: MySQL 8.0 | Microsoft Excel | Dataset: Sample Superstore (Kaggle)
+### Tools: MySQL 8.0 | Microsoft Excel | Dataset: Sample Superstore (Kaggle)
 
 ## Project Overview
 
