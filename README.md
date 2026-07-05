@@ -39,4 +39,4 @@ This project analyzes 4 years of e-commerce sales data (2014–2017) for a ficti
 
 ## Author
 **Allan Jigi Mathew**  
-[LinkedIn](www.linkedin.com/in/allan-jigi-mathew)
+[LinkedIn](https://www.linkedin.com/in/allan-jigi-mathew/)
